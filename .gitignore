@@ -1,0 +1,6 @@
+.alcache/
+.vscode/
+rad.json
+TestResults.xml
+!.gitignore
+!README.md
